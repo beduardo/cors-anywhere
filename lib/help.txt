@@ -1,3 +1,4 @@
+CEDRO
 This API enables cross-origin requests to anywhere.
 
 Usage:
